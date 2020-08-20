@@ -6,12 +6,10 @@
   height: auto;
   overflow: hidden;
   /* display: inline-block; */
-  
-  
   /* background-size: cover;  */
-  margin: -31px; 
+  margin: -31px;
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(255, 110, 110);
   border-radius: 50% !important;
 }
 
@@ -140,7 +138,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #de0000;
 }
 
 /* main blockqoute */
@@ -549,7 +547,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #db0000 !important;
+  color: #de0000 !important;
 }
 
 /* .teal-text {
@@ -560,7 +558,7 @@ small {
 
 .teal {
   /*background-color: #008073 !important;*/
-  background-color: #db0000 !important;
+  background-color: #de0000 !important;
 }
 
 /* .teal {
