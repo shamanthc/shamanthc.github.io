@@ -530,8 +530,8 @@ a.hoverline:hover {
   text-align: center;
 }
 
-#experience .col.s12.m10 {
-  width: 100% !important ; 
+#experience .row .col.m10 {
+  width: 100% !important; 
   margin-left: 0;
 }
 
