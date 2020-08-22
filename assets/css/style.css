@@ -530,6 +530,11 @@ a.hoverline:hover {
   text-align: center;
 }
 
+#experience .col.s12.m10 {
+  width: 100%;
+  margin-left: 0;
+}
+
 .fa-external-link:before {
   left: 3px;
   position: relative;
