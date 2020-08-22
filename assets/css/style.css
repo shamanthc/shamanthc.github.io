@@ -531,7 +531,7 @@ a.hoverline:hover {
 }
 
 #experience .col.s12.m10 {
-  width: 100%;
+  width: 100% !important ; 
   margin-left: 0;
 }
 
