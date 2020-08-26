@@ -535,6 +535,11 @@ a.hoverline:hover {
   margin-left: 0;
 }
 
+#skill .row .col.m2 {
+  width: 18% !important; 
+  margin-left: 0;
+}
+
 .fa-external-link:before {
   left: 3px;
   position: relative;
