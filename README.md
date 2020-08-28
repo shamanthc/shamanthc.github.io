@@ -1,3 +1,6 @@
+Forked repo, check out the details below.
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
